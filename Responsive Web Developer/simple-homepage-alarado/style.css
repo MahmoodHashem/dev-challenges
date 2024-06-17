@@ -1,10 +1,31 @@
+
+
+:root{
+   --clr-dark: #111729; 
+   --clr-light: #F2F9FE; 
+}
+
+
+
 body {
     font-family: Poppins, sans-serif;
-    background-color: #F2F9FE;
+    background-color: var(--clr-light);
+    transition: .5s;
+  }
+
+
+  .dark-mode{
+    --clr-dark: #F2F9FE; 
+    --clr-light: #111729; 
   }
 
   h1 {
     font-size: 3.5rem;
+    color: var(--clr-dark);
+  }
+
+  h5{
+    color: var(--clr-dark);
   }
 
   .btn {
@@ -21,15 +42,18 @@ body {
 
   .sidebar-list li a {
     text-decoration: none;
-    color: black;
+    color: var(--clr-dark); 
     font-size: 40px;
     font-weight: 500;
+  }
 
+  .nav-link{
+    color: var(--clr-dark);
   }
 
   .toggler-desktop,
   .toggler-mobile {
-    background-color: #111729;
+    background-color: #223344;;
     border-radius: 20px;
     padding: 5px;
     cursor: pointer;

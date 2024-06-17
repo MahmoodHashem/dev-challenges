@@ -16,7 +16,7 @@
 
 </head>
 
-<body>
+<body class="dark-mode">
 
   <div class="offcanvas w-50 offcanvas-end" tabindex="-1" id="sidebar" aria-labelledby="offcanvasExampleLabel">
     <div class="offcanvas-header">
@@ -43,8 +43,11 @@
 
   <nav class="navbar mx-4 navbar-expand-lg justify-content-between">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand d-none" href="#">
         <img src="./assets/img/alarado-icon-homepage.svg" alt="">
+      </a>
+      <a class="navbar-brand" href="#">
+        <img src="./assets/img/alarado-icon-homepage-dark.svg" alt="">
       </a>
       <button class="btn shadow bg-light d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebar"
         aria-controls="offcanvasExample">
@@ -54,7 +57,7 @@
       <div class=" collapse fw-bold navbar-collapse " id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto me-auto  mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">About Us</a>
+            <a class="nav-link" aria-current="page" href="#">About Us</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Product</a>

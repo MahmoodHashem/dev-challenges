@@ -1,5 +1,8 @@
 const toggler = document.querySelector('.toggler-desktop');
 const togglermobile = document.querySelector('.toggler-mobile');
+const body = document.querySelector('body'); 
+const navBrand = document.querySelectorAll('.navbar-brand'); 
+
 
 const moonlight = document.querySelectorAll('.moon');
 const moondark = document.querySelectorAll('.moonn');
@@ -12,6 +15,9 @@ function handleToggleClick() {
   toggleClasses(sunlight);
   toggleClasses(moondark);
   toggleClasses(moonlight);
+
+  body.classList.toggle('dark-mode'); 
+  toggleClasses(navBrand); 
 }
 
 toggler.addEventListener("click", handleToggleClick);
