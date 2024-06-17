@@ -18,6 +18,9 @@ Whether you're experienced or new to development, the only way to become a good 
 
 > The only way to become a web developer is to start building websites with real-life practices. If you want to be a better developer, practice your development skills or learn to work with other developers, this challenge is for you.
 
+
+### [JavaScript Developer path](https://devchallenges.io/paths/responsiveWebPaths)
+
 ### [Front-end Developer path](https://devchallenges.io/paths/frontEndPaths)
 
 > Front-end developers are in high demand. There is no better ways to improve your front-end skills than practicing it. This path includes list of challenges from easy to advanced, you will work with different APIs, beautiful designs and challenging tasks.

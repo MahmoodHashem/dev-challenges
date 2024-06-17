@@ -1,0 +1,45 @@
+body {
+    font-family: Poppins, sans-serif;
+    background-color: #F2F9FE;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  .btn {
+    background-color: #2A4DD0;
+    color: white;
+  }
+
+  .sidebar-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sidebar-list li a {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    font-weight: 500;
+
+  }
+
+  .toggler-desktop,
+  .toggler-mobile {
+    background-color: #111729;
+    border-radius: 20px;
+    padding: 5px;
+    cursor: pointer;
+    user-select: none;
+  }
+
+
+  .sun,
+  .moon {
+    background-color: #F2F9FE;
+    border-radius: 50%;
+    user-select: none;
+  }
