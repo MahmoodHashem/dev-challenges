@@ -25,8 +25,8 @@ This is a solution to the [Simple Homepage - Alarado](https://devchallenges.io/c
 
 ### Links
 
-- [Solution URL](https://github.com/MahmoodHashem/Mentor-Challanges/tree/main/age-calculator)
-- [Live Site URL](https://mahmoodhashem.github.io/Mentor-Challanges/age-calculator/index.html)
+- [Solution URL](https://github.com/MahmoodHashem/dev-challenges/tree/main/Responsive%20Web%20Developer/simple-homepage-alarado)
+- [Live Site URL](https://mahmoodhashem.github.io/dev-challenges/Responsive%20Web%20Developer/simple-homepage-alarado/index.html)
 
 ## My process
 

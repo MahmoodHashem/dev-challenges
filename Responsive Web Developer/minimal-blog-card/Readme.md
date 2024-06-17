@@ -1,6 +1,6 @@
-# Responsive Web Developer - Simple Homepage - Alarado
+# Responsive Web Developer - Minimal Blog Card
 
-This is a solution to the [Simple Homepage - Alarado](https://devchallenges.io/challenge/simple-hompage-alarado) challenge of [Dev Challenges](https://devchallenges.io/path/responsive-web-developer)
+This is a solution to the [Minimal Blog Card](https://devchallenges.io/challenge/minimal-blog-card) challenge of [Dev Challenges](https://devchallenges.io/path/responsive-web-developer)
 
 ## Table of contents
 
@@ -15,8 +15,8 @@ This is a solution to the [Simple Homepage - Alarado](https://devchallenges.io/c
 
 ### Links
 
-- [Live Site](https://mahmoodhashem.github.io/dev-challenges/Responsive%20Web%20Developer/minimal-blog-card/index.html)
-- [Solution Repository](https://github.com/MahmoodHashem/dev-challenges/tree/main/Responsive%20Web%20Developer/minimal-blog-card)
+- [Soltion URL](https://github.com/MahmoodHashem/dev-challenges/tree/main/Responsive%20Web%20Developer/minimal-blog-card)
+- [Live Site URL](https://mahmoodhashem.github.io/dev-challenges/Responsive%20Web%20Developer/minimal-blog-card/index.html)
 
 ## My process
 
